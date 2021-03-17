@@ -1,0 +1,2 @@
+.list{-webkit-align-items:center;align-items:center}.list,.list__item{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column}.list__item{width:600px;margin-bottom:20px;padding:20px;font-size:32px;line-height:50px;background-color:#f5daef;border-radius:5px;box-shadow:5px 6px 7px -1px #473c4c}.list__item>span:first-letter{text-transform:capitalize}
+/*# sourceMappingURL=main.8abfae37.chunk.css.map */
